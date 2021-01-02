@@ -28,6 +28,7 @@ All webpages of the project are mobile-responsive.
   - Install project dependencies by running `pip install -r requirements.txt`. Dependencies include Django and Pillow module that allows Django to work with images.
   - Make and apply migrations by running `python manage.py makemigrations` and `python manage.py migrate`.
   - Create superuser (admin account) with `python manage.py createsuperuser`. to be able to manipulate your data.
+  - Run project `python manage.py runserver`
   - Go to website address and register an account.
 
 
