@@ -9,18 +9,25 @@ The final project is my opportunity to design and implement a dynamic website of
 
 In this project, I'm asked to build a web application of my own. The nature of the application is up to me, subject to a few requirements:
 
-  - My web application must utilize at least two of Python, JavaScript, and SQL.
-  - My web application must be mobile-responsive.
-  - In README.md, include a short writeup describing your project, what’s contained in each file I created or modified, and (optionally) any other additional information the staff should know about your project.
-  - If you’ve added any Python packages that need to be installed in order to run your web application, be sure to add them to requirements.txt!
-
-Beyond these requirements, the design, look, and feel of the website are up to me!
+  - My web application utilize python, JavaScript, and SQL.
+  - My web application is mobile-responsive.
+  - README File, includes a short writeup describing your project, what’s contained in each file I created or modified, and (optionally) any other additional information the staff should know about your project.
+  - Python Packages used in the project are added to the requirements.txt!
 
 ### Capstone project
 
-My final project is a freelance restaurant cafe website that well designed and has an admin panel that enable the admin (Restaurant owner) to add, change or delete his menu items (Prices, descriptions and names)
+My final project is a restaurant cafe website that well designed, has:
+1-single HTML Page that contains 4 sections that u can switch between them via the navigation bar with an animation:
+  I-Intro section contains (Image of a restaurant, its name and some words) 
+  II-Menu section (That displays all the items and categories added by the owner from the admin panel)
+  III-About us Section (Contains some images from facebook, instagram , some usefull links to social media pages) 
+  IV-Contact Us Section (Contains the real location of the restaurant and feedback form (doesn't work right now, but it doesn't give any error)
 
-The project was built using Django as a backend framework and JavaScript as a frontend programming language. All generated information are saved in database (SQLite).
+2- Admin panel that enable the admin (Restaurant owner) to add, change or delete his menu items (Prices, descriptions and names) and the categories with a friendly user iterface (Embedded Admin Panel from Django)
+
+This project uses javascript, has an admin panel and mobile responsive in addition to it's a real freelance project that will be delivered to a real customer to use it for his business
+
+The project was built using Django as a backend framework and JavaScript, bootstrap and jQuery in the frontend. All generated information are saved in  SQLite database.
 
 All webpages of the project are mobile-responsive.
 
