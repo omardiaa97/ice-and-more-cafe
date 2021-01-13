@@ -17,13 +17,20 @@ In this project, I'm asked to build a web application of my own. The nature of t
 ### Capstone project
 
 My final project is a restaurant cafe website that well designed, has:
+
 1-single HTML Page that contains 4 sections that u can switch between them via the navigation bar with an animation:
-  I-Intro section contains (Image of a restaurant, its name and some words) 
+
+  I-Intro section contains (Image of a restaurant, its name and some words)
+  
   II-Menu section (That displays all the items and categories added by the owner from the admin panel)
-  III-About us Section (Contains some images from facebook, instagram , some usefull links to social media pages) 
+  
+  III-About us Section (Contains some images from facebook, instagram , some usefull links to social media pages)
+  
   IV-Contact Us Section (Contains the real location of the restaurant and feedback form (doesn't work right now, but it doesn't give any error)
 
+
 2- Admin panel that enable the admin (Restaurant owner) to add, change or delete his menu items (Prices, descriptions and names) and the categories with a friendly user iterface (Embedded Admin Panel from Django)
+
 
 This project uses javascript, has an admin panel and mobile responsive in addition to it's a real freelance project that will be delivered to a real customer to use it for his business
 
