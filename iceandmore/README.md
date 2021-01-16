@@ -7,6 +7,7 @@ See [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-java
 ### Requirements
 The final project is my opportunity to design and implement a dynamic website of my own. So long as my final project draws upon this course’s lessons
 
+
 In this project, I'm asked to build a web application of my own. The nature of the application is up to me, subject to a few requirements:
 
   - My web application utilize python, JavaScript, and SQL.
